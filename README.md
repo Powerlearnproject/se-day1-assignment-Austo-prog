@@ -107,13 +107,8 @@ Improved user experience - Prompt engineering makes it easy for users to obtain 
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Log in
-
-Sign up
-You said:
 
 List and briefly explain the phases of the Software Development Life Cycle.
-ChatGPT said:
 The Software Development Life Cycle (SDLC) is a structured process used by software developers to design, develop, test, and deploy software applications. It typically consists of the following phases:
 
 Requirement Gathering and Analysis:
@@ -136,10 +131,7 @@ Maintenance:
 After deployment, the software enters the maintenance phase, where it is monitored for issues such as bugs, performance problems, or security vulnerabilities. Updates, patches, and enhancements may be made to improve functionality or address new user needs over time.
 These phases help ensure the software is delivered on time, within budget, and meets the required quality standards.
 
-
-You said:
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-ChatGPT said:
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective
 Vague Prompt:
 "Tell me about the benefits of a website."
 
